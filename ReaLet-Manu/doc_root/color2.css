@@ -1,0 +1,53 @@
+body{
+
+	color:#FFFFFF;
+	background-color:#000000;
+}
+
+#main{
+
+	background-color:#000000;
+	opacity:0.91;
+	border-left:solid 1px #FFFFFF;
+	border-right:solid 1px #FFFFFF;
+}
+
+#logo{
+
+	color:#d9333f;
+}
+
+div.text2{
+
+	background-color:#d9333f;
+}
+
+div.background{
+
+	color:#333333;
+}
+
+input.submit{
+
+	background-color:#d9333f;
+}
+
+a{
+
+	color:#d9333f;
+}
+
+a:hover{
+
+	color:#2860A3;
+}
+
+div.header{
+
+	border-bottom:solid 1px #FFFFFF;
+}
+
+td.project_index{
+
+	border:solid 1px #FFFFFF;
+}

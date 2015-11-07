@@ -1,0 +1,204 @@
+body{
+
+	font-size:15px;
+	letter-spacing:1px;
+	font-family:Arial,Helvetica;
+	min-width:900px;
+}
+
+div.header{
+
+	position:absolute;
+	width:100%;
+	min-width:900px;
+	top:0px;
+	left:0px;
+	white-space:nowrap;
+	color:#FFFFFF;
+	background-color:#000000;
+	padding:20px;
+	z-index:2;
+}
+
+a.header{
+
+	color:#DDDDDD;
+}
+
+a.header:hover{
+
+	color:#2860A3;
+}
+
+div.background{
+
+	font-size:40px;
+	font-family:Impact;
+	position:fixed;
+	z-index:0;
+}
+
+#main{
+
+	width:800px;
+	min-height:700px;
+	margin:0px auto;
+	padding:40px;
+	padding-top:100px;
+	text-align:center;
+	z-index:1;
+}
+
+#logo{
+
+	font-family:Impact;
+	font-size:75px;
+	letter-spacing:5px;
+	text-decoration:underline;
+	margin:10px;
+}
+
+div.content{
+
+	text-align:left;
+	border:dashed 2px #666666;
+	margin:20px;
+	padding:20px;
+	line-height:30px;
+}
+
+div.text1{
+
+	margin:50px auto;
+	padding:10px;
+	width:600px;
+	text-align:left;
+	line-height:30px;
+}
+
+div.text2{
+
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:20px;
+	width:100%;
+	margin-top:-10px;
+	margin-left:-10px;
+	padding:10px;
+	margin-bottom:20px;
+}
+
+table.input{
+
+	margin:0px auto;
+}
+
+div.cent{
+
+	text-align:center;
+}
+
+input{
+
+	outline:0;
+	font-family:Arial,Helvetica;
+}
+
+li{
+
+	border-bottom:dashed 1px #666666;
+	margin:5px;
+	padding:5px;
+}
+
+#loading{
+
+	margin:100px auto;
+}
+
+#contents{
+
+	display:none;
+}
+
+input.submit{
+
+	color:#FFFFFF;
+	border:0px;
+	font-size:15px;
+	width:150px;
+	height:50px;
+}
+
+input.submit:hover{
+
+	color:#000000;
+}
+
+td.cent{
+
+	text-align:center;
+	padding:15px;
+}
+
+input.text{
+
+	margin:10px;
+	border:solid 1px #000000;
+	width:300px;
+	height:30px;
+}
+
+textarea.text{
+
+	margin:10px;
+	width:300px;
+}
+
+a{
+
+	font-weight:bold;
+}
+
+input.char{
+
+	font-weight:bold;
+	border:solid 1px #0000FF;
+	width:30px;
+	height:30px;
+	text-align:center;
+}
+
+img.char{
+
+	width:30px;
+	height:30px;
+}
+
+table.manu{
+
+	background-color:#EEEEEE;
+	border:solid 2px #000000;
+	margin:10px auto;
+	padding:15px;
+}
+
+textarea{
+
+	border:solid 1px #000000;
+}
+
+td.project_index{
+
+	padding:10px;
+}
+
+span.project_index{
+
+	font-weight:bold;
+}
+
+span.copyright{
+
+	color:#d9333f;
+}

@@ -1,0 +1,47 @@
+body{
+
+	color:#000000;
+	background-color:#FFFFFF;
+}
+
+#main{
+
+	background-color:#FFFFFF;
+	opacity:0.96;
+}
+
+#logo{
+
+	color:#000000;
+}
+
+div.text2{
+
+	background-color:#000000;
+}
+
+div.background{
+
+	color:#666666;
+	opacity:0.2;
+}
+
+input.submit{
+
+	background-color:#2860A3;
+}
+
+a{
+
+	color:#2860A3;
+}
+
+a:hover{
+
+	color:#d9333f;
+}
+
+td.project_index{
+
+	border:solid 1px #000000;
+}
